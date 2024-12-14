@@ -39,6 +39,6 @@ print_r($obj_person); //output: stdClass Person
 echo"<br>";
 echo "Now is an obj \n".$obj_person->name; //output: miku
 
-//obj can store methods 
+//obj can store methods
 
 ?>
